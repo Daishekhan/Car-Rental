@@ -1,2 +1,2 @@
 # Car-Rental
-A simple car rental app build using SwiftUI
+A simple car rental app built using SwiftUI
